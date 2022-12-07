@@ -15,7 +15,12 @@ A digital music service called Sparkify is comparable to Spotify, Apple Music, a
 #### The findings of this project already published follow the link:
 
 https://medium.com/@hthdonghuy207/sparkif-y-user-behavior-prediction-c34b0b5207f5
+# Acknowledgements
 
-# Data
+### Data
+This project contains a tiny subset (128MB) of the full dataset available (12GB). And datasets is in JSON format.
 
-mini_sparkify_event_data.json
+# Files:
+- mini_sparkify_event_data.json # datasets
+- requirements.txt # package 
+- Sparkify.ipynb # contains code and explore data
